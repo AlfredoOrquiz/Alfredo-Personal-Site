@@ -1,3 +1,4 @@
+/* TAG SELECTOR */
 body {
   background-color: #EAF6F6;
 }
@@ -13,7 +14,19 @@ h3 {
 hr {
   border-style: none;
   border-top-style: dotted;
-  border-color: grey;
+  border-color: #89B5AF;
   border-width: 5px;
   width: 5%;
+}
+
+img:hover {
+  background-color: Gold;
+}
+
+/* CLASS SELECTORS */
+
+/* ID SELECTORS */
+
+#Heading {
+  color: blue;
 }
